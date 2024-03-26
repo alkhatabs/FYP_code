@@ -39,7 +39,7 @@ This script is designed to organize image and label files into separate director
         ...
     }
 }
-
+```
 
 2. **Execution**: Run the script. It will organize the files as described above.
 
