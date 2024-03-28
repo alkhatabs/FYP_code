@@ -7,6 +7,7 @@ Ensure you have Python installed on your system. You can install the required li
 
 ```bash
 pip install opencv-python numpy
+```
 Usage
 Place your images in a directory named dataset.
 Run the script blemish_simulation.py.
