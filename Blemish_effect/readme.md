@@ -10,7 +10,7 @@ pip install opencv-python numpy
 ```
 Usage
 Place your images in a directory named dataset.
-Run the script blemish_simulation.py.
+Run the ```script blemish_effect.py```.
 The script will process each .png image in the dataset directory, simulate blemishes on them, and save the modified images in an output directory.
 Parameters
 You can adjust the following parameters in the script according to your preferences:
@@ -23,9 +23,9 @@ alpha_blend: Weight for blending the original image with the blemish mask.
 Example
 bash
 Copy code
-python blemish_simulation.py
+python blemish_effect.py
 This command will run the script and process all .png images in the dataset directory, adding blemishes to them and saving the modified images in the output directory.
 
 Author
-This script was created by [Your Name].
+This script was created by [Alkhatab_albusaidi].
 
